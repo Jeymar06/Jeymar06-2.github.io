@@ -1,4 +1,4 @@
 # Jeymar06-2.github.io
-Estudiante: Jeider Torres Martinez
+Taller Web 3 Jeider Torres Martinez
 https://Jeymar06-2.github.io.
 
